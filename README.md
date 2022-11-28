@@ -17,7 +17,7 @@
 <p align="center">
 <a href="https://github.com/MrKrYP70n">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MrKrYP70n&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MrKrYP70n&layout=compact&langs_count=8&theme=algolia"/>
+  
 </a>
 </p>
 
@@ -27,3 +27,6 @@
 </p>
 <p> <b>TryHackMe</b> Profile : <br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Mr.KrYP70N.png" alt="TryHackMe"> </p>
+<p> <b>HackTheBox</b> Profile : <br>
+https://app.hackthebox.com/profile/911038
+  
